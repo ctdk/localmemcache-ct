@@ -1,0 +1,3 @@
+Just a quick fork to add expiry, LRU removal, and POSIX shared mem to localmemcache is all.
+
+-j
